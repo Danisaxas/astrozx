@@ -22,19 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -46,7 +38,8 @@
               "RelativeToolTip": "_date.py",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-11T01:52:36.082Z"
+              "WhenOpened": "2025-04-11T01:52:36.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,7 +49,7 @@
               "RelativeDocumentMoniker": "classBot\\MongoDB.py",
               "ToolTip": "C:\\Users\\Danluis\\Videos\\RGood Mx\\classBot\\MongoDB.py",
               "RelativeToolTip": "classBot\\MongoDB.py",
-              "ViewState": "AgIAADoAAAAAAAAAAAAiwHEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAADwv38AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-04-11T01:51:54.905Z",
               "EditorCaption": ""
@@ -71,7 +64,16 @@
               "RelativeToolTip": "_MainChk.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-11T01:51:45.097Z"
+              "WhenOpened": "2025-04-11T01:51:45.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
             }
           ]
         }
